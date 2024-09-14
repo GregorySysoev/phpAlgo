@@ -1,0 +1,15 @@
+{
+    "name": "gregorysysoev/php-algo",
+    "autoload": {
+        "psr-4": {
+            "Gregorysysoev\\PhpAlgo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gregory Sysoev",
+            "email": "gregorysysoev@gmail.com"
+        }
+    ],
+    "require": {}
+}
